@@ -1,5 +1,4 @@
-# personal-profile-website
-A beginner-friendly multi-page personal website developed using HTML and CSS, featuring navigation, basic styling, and separate sections for education, projects, and responsibilities.
+
 # Personal Profile Website
 
 A simple multi-page personal profile website created while learning **HTML and CSS**. The website presents my introduction, academic background, projects, and responsibilities through separate web pages.
